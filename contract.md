@@ -4,6 +4,12 @@
 
 _At a high level, what do you most want to get out of this project, and why?_
 
+I hope to make a domain specific language that I myself could use outside of class when
+making schedules, and to learn techniques that are useful in making a DSL. 
+I feel like the project I'd be working on is something I'd be interested in making as
+well as using personally, and that motivates me to work more on this project, and ultimately the
+goal is to learn techniques in DSL design. 
+
 ## Concepts / skills
 
 _What concepts and / or skills from class would you like to work on, as part of your
@@ -12,10 +18,19 @@ like to work on, as part of your project (for example, other things related to D
 you have come across, or topics from other classes)? Why are you interested in working on
 these things?_
 
+I think I'd like to work on transferring the knowledge/skills I have in Scala to other
+programming languages. I know about parser combinators in Scala, but in Python or Rust or
+Javascript could be useful to learn as well. I'd also (if there is time!) love to work on
+a frontend/user interface for the DSL, but I recognize this might be very large in scope.
+I think I'd like to improve on the skills needed and the steps needed to build a DSL. I 
+didn't finish the last HW assignment fully, and catching up on that would be useful.
+
 ## Time management plan
 
 _How do you plan to set aside time outside of class, to work on the project? Are there
 intermediate milestones that you can create, to help you make consistent progress?_
+
+I do not know lol 
 
 ## Teamwork plan
 
